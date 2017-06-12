@@ -1,0 +1,23 @@
+{
+  "name": "dhs-common-styles",
+  "version": "1.0.0",
+  "description": "Common styles for DHS Applications",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arielpartners/dhs-common-styles.git"
+  },
+  "keywords": [
+    "less",
+    "css",
+    "styles"
+  ],
+  "author": "Ariel Partners",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arielpartners/dhs-common-styles/issues"
+  },
+  "homepage": "https://github.com/arielpartners/dhs-common-styles#readme"
+}
